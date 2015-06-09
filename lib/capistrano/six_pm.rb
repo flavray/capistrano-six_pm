@@ -1,7 +1,1 @@
-require "capistrano/six_pm/version"
-
-module Capistrano
-  module SixPm
-    # Your code goes here...
-  end
-end
+load File.expand_path("../tasks/six_pm.rake", __FILE__)
