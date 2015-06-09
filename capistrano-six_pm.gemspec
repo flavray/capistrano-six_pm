@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Do you really want to deploy after six?}
   spec.description   = %q{Do you really want to deploy after six? Don't you have any kind of life after work?}
   spec.homepage      = "https://github.com/flavray/capistrano-six_pm"
+  spec.licenses      = ["MIT"]
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
